@@ -1,0 +1,31 @@
+h1 {
+    color:#ec6066;
+}
+
+ut {
+    color:skyblue;
+}
+
+tu {
+    color:yellow;
+}
+
+a {
+    font-style: italic;
+}
+
+b {
+    font-size: 10px;
+}
+
+c {
+  background: -webkit-linear-gradient(#2189d9, #073152);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+    background-color: #2e3841;
+    color: #d8dee9;
+    font-family: 'Minecraft', sans-serif;
+}
